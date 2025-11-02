@@ -1,4 +1,4 @@
-public class Calculadora { public static void main(String[] args) { System.out.println("=== Calculadora Avanzada ==="); int a = 10; int b = 5;
+public class Calculadora { public static void main(String[] args) { System.out.println("=== Calculadora Basica ==="); int a = 10; int b = 5;
 
     System.out.println("Suma: " + (a + b));
     System.out.println("Resta: " + (a - b));
